@@ -1,0 +1,178 @@
+
+
+
+
+
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/audio.bluetooth.d
+efault.so'
+out/soong/installs-lineage_a34x.mk:92036: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/aud
+io.bluetooth.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/audio.primary.def
+ault.so'
+out/soong/installs-lineage_a34x.mk:92060: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/aud
+io.primary.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/audio.r_submix.de
+fault.so'
+out/soong/installs-lineage_a34x.mk:92068: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/aud
+io.r_submix.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/audio.usb.default
+.so'
+out/soong/installs-lineage_a34x.mk:92084: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/aud
+io.usb.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/audio_policy.stub
+.so'
+out/soong/installs-lineage_a34x.mk:92220: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/aud
+io_policy.stub.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/fingerprint.defau
+lt.so'
+out/soong/installs-lineage_a34x.mk:141501: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/fi
+ngerprint.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/gralloc.default.s
+o'
+build/make/core/base_rules.mk:497: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/gralloc.de
+fault.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/local_time.defaul
+t.so'
+out/soong/installs-lineage_a34x.mk:258331: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/lo
+cal_time.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/power.default.so'
+out/soong/installs-lineage_a34x.mk:329591: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/po
+wer.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/hw/vibrator.default.
+so'
+out/soong/installs-lineage_a34x.mk:360610: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/hw/vi
+brator.default.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/lib_android_keymaste
+r_keymint_utils.so'
+out/soong/installs-lineage_a34x.mk:154826: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/lib_a
+ndroid_keymaster_keymint_utils.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libalsautils.so'
+out/soong/installs-lineage_a34x.mk:155646: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libal
+sautils.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libaudioclient_aidl_
+conversion.so'
+out/soong/installs-lineage_a34x.mk:177067: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libau
+dioclient_aidl_conversion.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libaudiofoundation.s
+o'
+out/soong/installs-lineage_a34x.mk:177147: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libau
+diofoundation.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libbinderdebug.so'
+out/soong/installs-lineage_a34x.mk:179447: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libbi
+nderdebug.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libbluetooth_audio_s
+ession.so'
+out/soong/installs-lineage_a34x.mk:179715: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libbl
+uetooth_audio_session.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcamera2ndk_vendor
+.so'
+out/soong/installs-lineage_a34x.mk:187227: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libca
+mera2ndk_vendor.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcodec2_hidl@1.1.s
+o'
+out/soong/installs-lineage_a34x.mk:188447: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libco
+dec2_hidl@1.1.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcodec2_hidl@1.2.s
+o'
+out/soong/installs-lineage_a34x.mk:188463: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libco
+dec2_hidl@1.2.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcodec2_hidl_plugi
+n.so'
+out/soong/installs-lineage_a34x.mk:188495: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libco
+dec2_hidl_plugin.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcodec2_simple_com
+ponent.so'
+out/soong/installs-lineage_a34x.mk:188519: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libco
+dec2_simple_component.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcodec2_soft_commo
+n.so'
+out/soong/installs-lineage_a34x.mk:188727: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libco
+dec2_soft_common.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcppbor_external.s
+o'
+out/soong/installs-lineage_a34x.mk:189656: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libcp
+pbor_external.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libcppcose_rkp.so'
+out/soong/installs-lineage_a34x.mk:189688: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libcp
+pcose_rkp.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libflatbuffers-cpp.s
+o'
+out/soong/installs-lineage_a34x.mk:194592: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libfl
+atbuffers-cpp.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libgrallocusage.so'
+out/soong/installs-lineage_a34x.mk:196176: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libgr
+allocusage.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libhwc2onfbadapter.s
+o'
+out/soong/installs-lineage_a34x.mk:197296: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libhw
+c2onfbadapter.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libkeymaster4_1suppo
+rt.so'
+out/soong/installs-lineage_a34x.mk:199664: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libke
+ymaster4_1support.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libkeymint.so'
+out/soong/installs-lineage_a34x.mk:199784: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libke
+ymint.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libkeystore-engine-w
+ifi-hidl.so'
+out/soong/installs-lineage_a34x.mk:199856: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libke
+ystore-engine-wifi-hidl.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libkeystore-wifi-hid
+l.so'
+out/soong/installs-lineage_a34x.mk:199864: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libke
+ystore-wifi-hidl.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libruy.so'
+out/soong/installs-lineage_a34x.mk:226113: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libru
+y.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libsensorndkbridge.s
+o'
+out/soong/installs-lineage_a34x.mk:226681: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libse
+nsorndkbridge.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libsfplugin_ccodec_u
+tils.so'
+out/soong/installs-lineage_a34x.mk:227065: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libsf
+plugin_ccodec_utils.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libshmemcompat.so'
+out/soong/installs-lineage_a34x.mk:227245: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libsh
+memcompat.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libshmemutil.so'
+out/soong/installs-lineage_a34x.mk:227269: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libsh
+memutil.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libsoft_attestation_
+cert.so'
+out/soong/installs-lineage_a34x.mk:228285: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libso
+ft_attestation_cert.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libwifi-hal.so'
+out/soong/installs-lineage_a34x.mk:249798: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libwi
+fi-hal.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/libz_stable.so'
+out/soong/installs-lineage_a34x.mk:256582: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/libz_
+stable.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/mediacas/libclearkey
+casplugin.so'
+out/soong/installs-lineage_a34x.mk:188287: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/media
+cas/libclearkeycasplugin.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/mediadrm/libdrmclear
+keyplugin.so'
+out/soong/installs-lineage_a34x.mk:192688: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/media
+drm/libdrmclearkeyplugin.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/mediadrm/libmockdrmc
+ryptoplugin.so'
+out/soong/installs-lineage_a34x.mk:205305: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/media
+drm/libmockdrmcryptoplugin.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/shared-file-region-a
+idl-cpp.so'
+out/soong/installs-lineage_a34x.mk:334864: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/share
+d-file-region-aidl-cpp.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/soundfx/libdynproc.s
+o'
+out/soong/installs-lineage_a34x.mk:192920: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/sound
+fx/libdynproc.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/soundfx/libhapticgen
+erator.so'
+out/soong/installs-lineage_a34x.mk:196484: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/sound
+fx/libhapticgenerator.so'
+build/make/core/Makefile:161: warning: overriding commands for target `out/target/product/a34x/system/vendor/lib64/spatializer-aidl-cpp
+.so'
+out/soong/installs-lineage_a34x.mk:337609: warning: ignoring old commands for target `out/target/product/a34x/system/vendor/lib64/spati
+alizer-aidl-cpp.so'
