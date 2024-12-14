@@ -8,6 +8,8 @@ DEVICE_PATH := device/samsung/a34x
 # HIDL
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := \
     $(DEVICE_PATH)/compatibility_matrix.xml  \
+    hardware/samsung/vintf/samsung_framework_compatibility_matrix.xml \
+    vendor/lineage/config/device_framework_matrix.xml
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
