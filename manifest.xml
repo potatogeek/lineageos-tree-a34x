@@ -70,11 +70,26 @@
         <transport arch="32+64">passthrough</transport>
         <fqname>@1.0::IDevice/default</fqname>
     </hal>
-    <hal format="aidl">
-        <name>android.hardware.security.keymint</name>
-        <fqname>IKeyMintDevice/default</fqname>
-        <fqname>IRemotelyProvisionedComponent/default</fqname>
-    </hal>
+    <hal>
+    <name>android.hardware.security.keymint</name>
+    <version>1.0</version> 
+    <transport>hwbinder</transport> 
+    <interface>
+        <name>IKeyMintDevice</name>
+        <instance>default</instance>
+    </interface>
+</hal>
+<hal>
+    <name>android.hardware.security.remotelyprovisionedcomponent</name>
+    <version>1.0</version> 
+    <transport>hwbinder</transport> 
+    <interface>
+        <name>IRemotelyProvisionedComponent</name>
+        <instance>default</instance>
+    </interface>
+</hal>
+
+
     <hal format="aidl">
         <name>android.hardware.security.secureclock</name>
         <fqname>ISecureClock/default</fqname>
